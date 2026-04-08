@@ -4,7 +4,7 @@
 
 ![Multi-Agent System](multiagent.png)
 
-**基于 LangGraph 的多智能体求职助手系统**
+<h1 align="center">基于 LangGraph 的多智能体求职助手系统</h1>
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![LangChain](https://img.shields.io/badge/LangChain-Latest-green.svg)](https://github.com/langchain-ai/langchain)
@@ -392,26 +392,6 @@ JobAgent-MultiAgent/
 
 ### Q5: 如何切换模型？
 **A**: 在 "🤖 大模型配置" 中修改模型名称、API Key 和 Base URL 即可，无需重启应用。
-
----
-
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
----
-
-## 📄 许可证
-
-本项目采用 MIT 许可证。详见 [LICENSE](LICENSE) 文件。
-
----
-
-## 📞 联系方式
-
-- 📧 邮箱：[QQ 邮箱](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=V2RmYmRjZm9mbmIXJiZ5NDg6)
-- 📖 详细文档：查看 `项目总结文档.md`
-- 🚀 快速启动：查看 `快速启动指南.md`
 
 ---
 
