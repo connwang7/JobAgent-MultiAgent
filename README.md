@@ -1,6 +1,6 @@
 # JobAgent-MultiAgent
 
-<div align="center">
+<div align="left">
 
 ![Multi-Agent System](multiagent.png)
 
