@@ -197,7 +197,7 @@ streamlit run app.py
 **使用通义千问（推荐）**
 ```
 模型名称: qwen-plus
-API Key: sk-0e3a18e93ca345b2a886fc0592d55f80
+API Key: sk-xxx
 Base URL: https://dashscope.aliyuncs.com/compatible-mode/v1
 Temperature: 0.3
 ```
